@@ -2,7 +2,7 @@
 
 Size | Qty | Price | Total | Link
 ---- | --: | ----: | ----: | ----
-.5" x 2' x 4' Oak plywood | 2 | $14.93 | $29.86 | [Lowe's][ply]
+0.5" x 2' x 4' Oak plywood | 2 | $14.93 | $29.86 | [Lowe's][ply]
 2" x 4" x 96" | 3 | $3.38 | $10.14 | [Lowe's][2x4]
 **Total** | | | $40.00 |
 
