@@ -1,4 +1,4 @@
-cornhole
+Cornhole Board Construction
 ========
 
-Building a cornhole board
+Everything you need for cornhole projects
